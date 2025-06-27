@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan Lehnhardt\\source\\repos\\Brainfuck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E614DD50-9D7E-478C-B7BD-B6DB985C7EAB}|Brainfuck.vcxproj|C:\\Users\\Jan Lehnhardt\\source\\repos\\Brainfuck\\Brainfuck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E614DD50-9D7E-478C-B7BD-B6DB985C7EAB}|Brainfuck.vcxproj|solutionrelative:Brainfuck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E614DD50-9D7E-478C-B7BD-B6DB985C7EAB}|Brainfuck.vcxproj|C:\\Users\\Jan Lehnhardt\\source\\repos\\Brainfuck\\Resource.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E614DD50-9D7E-478C-B7BD-B6DB985C7EAB}|Brainfuck.vcxproj|solutionrelative:Resource.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resource.rc",
+              "DocumentMoniker": "C:\\Users\\Jan Lehnhardt\\source\\repos\\Brainfuck\\Resource.rc",
+              "RelativeDocumentMoniker": "Resource.rc",
+              "ToolTip": "C:\\Users\\Jan Lehnhardt\\source\\repos\\Brainfuck\\Resource.rc",
+              "RelativeToolTip": "Resource.rc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-26T18:40:13.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Brainfuck.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan Lehnhardt\\source\\repos\\Brainfuck\\Brainfuck.cpp",
+              "RelativeDocumentMoniker": "Brainfuck.cpp",
+              "ToolTip": "C:\\Users\\Jan Lehnhardt\\source\\repos\\Brainfuck\\Brainfuck.cpp",
+              "RelativeToolTip": "Brainfuck.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T17:52:43.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
